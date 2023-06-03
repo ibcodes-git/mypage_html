@@ -1,0 +1,30 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: #333;
+    color:aquamarine;
+}
+
+a{
+    color:green
+}
+
+a:visited {
+    color:yellow
+}
+
+a:hover,a:active {
+    color:red;
+}
+
+table,tr,th,td,caption{
+    border: 1px solid whitesmoke;
+    font-family: sans-serif;
+    border-collapse: collapse;
+    padding: 0.5em;
+    
+    
+
+
+}
